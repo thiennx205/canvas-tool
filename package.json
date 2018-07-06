@@ -1,0 +1,12 @@
+{
+  "name": "DrawTool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thiennx-nws/tool.git",
+  "author": "thien-nws <thiennx@newwave.vn>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
